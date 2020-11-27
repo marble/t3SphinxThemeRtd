@@ -8,7 +8,7 @@ A new theme for Docs.TYPO3.Org
 :Author:   Martin Bless <martin.bless@typo3.org>
 :License:  MIT
 :Demo:     See this demo docs `t3SphinxThemeRtdDemoDocs
-           <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__
+           <https://docs.typo3.org/m/typo3/demo-t3SphinxThemeRtd/master/en-us/>`__
            which are kind of a "stresstest" and demonstrate what's possible and
            how the theme can be used.
 
